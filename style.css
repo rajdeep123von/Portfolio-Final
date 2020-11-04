@@ -1,0 +1,30 @@
+h3 {
+    color: blue
+}
+/** {
+    border:solid;
+}*/
+
+.header {
+background-color:greenyellow;
+display:flex;
+justify-content: space-between;
+}
+
+.Grid {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    display:flex;
+    
+    justify-content:flex-end;
+}
+
+p,h2{
+    text-align:center;
+}
+body {
+    background-color: #808080;
+}
